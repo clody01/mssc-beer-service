@@ -30,6 +30,6 @@ public class beerLoader implements CommandLineRunner {
             beerRepository.save(beer1);
             beerRepository.save(beer2);
         }
-      //  System.out.println("Loaded beers: "+beerRepository.count() );
     }
+
 }
