@@ -1,4 +1,4 @@
-package com.clody2code.msscbeerservice001.mappers;
+package com.clody2code.msscbeerservice001.web.mappers;
 
 import com.clody2code.msscbeerservice001.domain.Customer;
 import com.clody2code.msscbeerservice001.web.model.CustomerDto;
